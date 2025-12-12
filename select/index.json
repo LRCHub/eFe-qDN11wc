@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Aspire",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-12T20:13:33.475772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aspire",
+      "artist": "she",
+      "has_synced": true,
+      "path": "select/01_Aspire_she.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aspire",
+      "artist": "Northlane",
+      "has_synced": true,
+      "path": "select/02_Aspire_Northlane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aspire, Achieve",
+      "artist": "Cosmograf",
+      "has_synced": false,
+      "path": "select/03_Aspire,_Achieve_Cosmograf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Ride Majestic (Aspire Angelic)",
+      "artist": "Soilwork",
+      "has_synced": true,
+      "path": "select/04_The_Ride_Majestic_(Aspire_Angelic)_Soilwork.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aspire",
+      "artist": "Northlane feat. Marcus Bridge",
+      "has_synced": true,
+      "path": "select/05_Aspire_Northlane_feat._Marcus_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aspire, Inspire",
+      "artist": "Five Pointe O",
+      "has_synced": false,
+      "path": "select/06_Aspire,_Inspire_Five_Pointe_O.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alas We Aspire",
+      "artist": "Amy Stroup",
+      "has_synced": true,
+      "path": "select/07_Alas_We_Aspire_Amy_Stroup.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aspire The Crown",
+      "artist": "The Oklahoma Kid",
+      "has_synced": true,
+      "path": "select/08_Aspire_The_Crown_The_Oklahoma_Kid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aspire (feat. Marcus Bridge)",
+      "artist": "Northlane",
+      "has_synced": true,
+      "path": "select/09_Aspire_(feat._Marcus_Bridge)_Northlane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Ride Majestic (Aspire Angelic)",
+      "artist": "Soilwork",
+      "has_synced": true,
+      "path": "select/10_The_Ride_Majestic_(Aspire_Angelic)_Soilwork.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aspire",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_Aspire_Liella!.txt"
+    }
+  ]
+}
